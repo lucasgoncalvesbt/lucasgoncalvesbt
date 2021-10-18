@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas e Seja Bem-Vindo! 👋
 
-- 💻 Atualmente estou focado nos estudos de Java/Spring no Back-End e Angular no Front-End
+- 💻 Atualmente estou focado nos estudos de Java/Spring no Back-End e React no Front-End
 - 📱 Além disso também estou interessado e estudando um pouco de desenvolvimento Mobile com Kotlin
 
 <div>
